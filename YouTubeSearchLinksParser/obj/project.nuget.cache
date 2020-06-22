@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmAgpO1OPR90E4BYxEnXv3ZTksWwt7FNR4737KZFst5mnRVyXCxfuJN514P5exrU6uM2u5TZlrO59SIzUjHhDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Undertaker\\source\\repos\\YouTubeSearchLinksParser\\YouTubeSearchLinksParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Undertaker\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\Undertaker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

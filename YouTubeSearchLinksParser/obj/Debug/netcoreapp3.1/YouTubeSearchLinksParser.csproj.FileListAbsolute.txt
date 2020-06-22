@@ -1,0 +1,4 @@
+C:\Users\Undertaker\source\repos\YouTubeSearchLinksParser\bin\Debug\netcoreapp3.1\YouTubeSearchLinksParser.exe
+C:\Users\Undertaker\source\repos\YouTubeSearchLinksParser\obj\Debug\netcoreapp3.1\YouTubeSearchLinksParser.csprojAssemblyReference.cache
+C:\Users\Undertaker\source\repos\YouTubeSearchLinksParser\obj\Debug\netcoreapp3.1\YouTubeSearchLinksParser.AssemblyInfoInputs.cache
+C:\Users\Undertaker\source\repos\YouTubeSearchLinksParser\obj\Debug\netcoreapp3.1\YouTubeSearchLinksParser.AssemblyInfo.cs
